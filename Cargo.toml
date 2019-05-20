@@ -1,0 +1,7 @@
+[package]
+name = "order-and-chaos"
+version = "0.1.0"
+authors = ["lukas <lukasgross2020@u.northwestern.edu>"]
+edition = "2018"
+
+[dependencies]
